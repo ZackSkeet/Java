@@ -1,5 +1,3 @@
-package HelloWorld1;
-
 // Temperature Conversion
 
 import java.util.Scanner;
