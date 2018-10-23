@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BSDchallenge2 {
+public class Palindromes {
 	private static Scanner input1;
 	
 	public static void main(String[] args) {
