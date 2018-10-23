@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BSDchallenge5 {
+public class RetrieveElements {
 
 	public static void main(String[] args) {
 		int value;
