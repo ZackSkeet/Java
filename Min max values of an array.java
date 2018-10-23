@@ -1,4 +1,4 @@
-public class BSDchallenge6 {
+public class MinMaxValues {
 	public static void main(String[] args) {
 	int[] array = {6,4,3,2,1};
 	
