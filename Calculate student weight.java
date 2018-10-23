@@ -1,4 +1,3 @@
-package HelloWorld1;
 import java.util.Scanner;
 public class Kilogramstask3 {
 	private static String[] studentnames;
