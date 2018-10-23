@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Kilogramstask3 {
+public class CalcStudentWeights {
 	private static String[] studentnames;
 	private static String[] studentweights;
 	private static String[] endstudentweights;
