@@ -1,10 +1,9 @@
-package HelloWorld1;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class BSDchallenge1 {
+public class AllPrimes {
 private static Scanner input1;
 private static Scanner input2; 
 
