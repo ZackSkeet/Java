@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class AllPrimes {
+public class AllPrimesBetween {
 private static Scanner input1;
 private static Scanner input2; 
 
