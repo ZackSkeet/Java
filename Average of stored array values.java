@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BSDchallenge4 {
+public class AverageOfValues {
 
 
 	public static void main(String[] args) {
