@@ -1,5 +1,3 @@
-package HelloWorld1;
-
 public class BSDchallenge6 {
 	public static void main(String[] args) {
 	int[] array = {6,4,3,2,1};
